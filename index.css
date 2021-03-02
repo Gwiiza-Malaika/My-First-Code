@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(189, 99, 67);
+
+}
+h1{
+    color:blue;
+    margin-top: 50px;
+    text-align: center;
+}
+h2{
+    color:rgb(78, 27, 78);
+    padding-left: 50px;
+
+
+
+}
+p{
+    color: blue;
+    padding-left: 70px;
+}
+img{
+    margin-left: 500px;
+    width: 200px;
+    height: 200px;
+}
+a{
+    margin-left:500px ;
+    
+}
